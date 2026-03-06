@@ -1,11 +1,14 @@
 I want to be great, one of the best GenAI backend Engineers on GCP and Kubernetes, give me a full road map, from start and low long it takes for me to get there and the skills I need to learn and master? 
+
 Gemini 3 Pro
 To become a top-tier GenAI Backend Engineer specializing in Google Cloud Platform (GCP) and Kubernetes (GKE), you need to master the intersection of three complex domains: Distributed Systems (K8s), Cloud Architecture (GCP), and Large Language Model (LLM) workflows.
 Below is a comprehensive roadmap designed to take you from a standard developer to an expert in this niche.
 Timeline Overview
-o	Prerequisites: Assumes you already know basic coding (Python) and Git.
-o	Total Time to "Job Ready": 9–12 months of dedicated study.
-o	Total Time to "Expert/One of the Best": 2+ years of continuous hands-on production experience.
+
+-	Prerequisites: Assumes you already know basic coding (Python) and Git.
+
+-	Total Time to "Job Ready": 9–12 months of dedicated study.
+- Total Time to "Expert/One of the Best": 2+ years of continuous hands-on production experience.
 ________________________________________
 Phase 1: The Foundation – Cloud Native Engineering
 Time: 2–3 Months Goal: Build scalable backend services and understand how GCP operates.
@@ -171,6 +174,7 @@ Sunday: The "Review & Plan" Phase (2 Hours)
 o	Total: 2 Hours
 o	Strategy: Low stress.
 o	Focus: 
+
 	Review what you broke on Saturday.
 	Plan what you will read during the M-Th mornings.
 	Watch high-level architecture videos (e.g., Google Cloud Tech YouTube channel) while doing chores.
