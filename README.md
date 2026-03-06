@@ -10,18 +10,18 @@ Timeline Overview
 -	Total Time to "Job Ready": 9–12 months of dedicated study.
 - Total Time to "Expert/One of the Best": 2+ years of continuous hands-on production experience.
 ________________________________________
-Phase 1: The Foundation – Cloud Native Engineering
-Time: 2–3 Months Goal: Build scalable backend services and understand how GCP operates.
+## Phase 1: The Foundation – Cloud Native Engineering
+**Time:** 2–3 Months Goal: Build scalable backend services and understand how GCP operates.
 4.	Advanced Python for Backend
-	Master: AsyncIO (crucial for streaming tokens), Pydantic (data validation), and FastAPI (the standard for AI APIs).
-	Learn: gRPC and Protocol Buffers for internal microservices communication.
+- Master: AsyncIO (crucial for streaming tokens), Pydantic (data validation), and FastAPI (the standard for AI APIs).
+- Learn: gRPC and Protocol Buffers for internal microservices communication.
 5.	Containerization (Docker)
-	Master: Multi-stage builds (keeping AI images small), CUDA containerization (nvidia-docker), and dependency management (Poetry/uv).
+-	Master: Multi-stage builds (keeping AI images small), CUDA containerization (nvidia-docker), and dependency management (Poetry/uv).
 6.	GCP Core Services
-	Compute: Compute Engine (understanding machine types, N-series vs. C-series).
-	Storage: Cloud Storage (GCS) for model artifacts; understand throughput and FUSE adapters.
-	Networking: VPCs, Load Balancing, and Private Service Connect.
-	IAM: Least privilege access (Workload Identity Federation is critical for K8s).
+-	Compute: Compute Engine (understanding machine types, N-series vs. C-series).
+-	Storage: Cloud Storage (GCS) for model artifacts; understand throughput and FUSE adapters.
+-	Networking: VPCs, Load Balancing, and Private Service Connect.
+-	IAM: Least privilege access (Workload Identity Federation is critical for K8s).
 ________________________________________
 Phase 2: Kubernetes (GKE) Mastery
 Time: 3–4 Months Goal: Orchestrate AI workloads. This is where you separate yourself from average developers.
