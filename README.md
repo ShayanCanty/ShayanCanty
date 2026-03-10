@@ -25,17 +25,23 @@ ________________________________________
   -	IAM: Least privilege access (Workload Identity Federation is critical for K8s).
 ________________________________________
 Phase 2: Kubernetes (GKE) Mastery
+
 Time: 3–4 Months Goal: Orchestrate AI workloads. This is where you separate yourself from average developers.
-7.	GKE Fundamentals
-	Concepts: Pods, Deployments, StatefulSets, Services, Ingress.
-	GKE Specifics: Standard vs. Autopilot, VPC-native clusters.
-8.	GPU Orchestration (The "Hard" Stuff)
-	Node Pools: Creating specific node pools for GPUs (L4, T4, A100, H100).
-	Drivers: Managing NVIDIA drivers via the GKE operator.
-	Scheduling: Taints, tolerations, and node affinity (ensuring GPU workloads land on GPU nodes).
-9.	Scaling AI Workloads
-	HPA (Horizontal Pod Autoscaler): Scaling based on CPU/Memory.
-	KEDA (Kubernetes Event-driven Autoscaling): Scaling based on custom metrics (e.g., Queue depth, GPU utilization).
+
+4.	GKE Fundamentals
+- 	**Concepts:** Pods, Deployments, StatefulSets, Services, Ingress.
+- 	**GKE Specifics:** Standard vs. Autopilot, VPC-native clusters.
+- 
+5.	GPU Orchestration (The "Hard" Stuff)
+  
+-	**Node Pools:** Creating specific node pools for GPUs (L4, T4, A100, H100).
+-	**Drivers:** Managing NVIDIA drivers via the GKE operator.
+-	**Scheduling:** Taints, tolerations, and node affinity (ensuring GPU workloads land on GPU nodes).
+
+6.	Scaling AI Workloads
+   
+-	**HPA (Horizontal Pod Autoscaler):** Scaling based on CPU/Memory.
+-	**KEDA (Kubernetes Event-driven Autoscaling):** Scaling based on custom metrics (e.g., Queue depth, GPU utilization).
 ________________________________________
 Phase 3: GenAI Application Development
 Time: 3 Months Goal: Build the actual AI logic (The "Brain").
