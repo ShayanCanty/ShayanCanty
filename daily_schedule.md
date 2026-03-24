@@ -14,6 +14,8 @@
 | 12:00 | Lunch |
 | 15:30 | Work |
 | 16:00 | Commute |
-| 17:00 | Study - LC |
+| 17:00 | Study - LC - Longest increasing subsequence (review), Graph BFS|
 | 19:00 | Workout |
-| 22:00 | Study - sys des, GenAI, LC, K8s |
+| 20:00 | Study - Sys Des. Caching,|
+| 21:00 | Study - GenAI|
+| 22:00 | Study - K8s |
