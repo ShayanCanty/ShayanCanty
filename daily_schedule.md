@@ -12,3 +12,8 @@
 | 08:00 | Breakfast |
 | 09:00 | Deep Work Session |
 | 12:00 | Lunch |
+| 15:30 | Work |
+| 16:00 | Commute |
+| 17:00 | Study - LC |
+| 19:00 | Workout |
+| 22:00 | Study - sys des, GenAI, LC, K8s |
