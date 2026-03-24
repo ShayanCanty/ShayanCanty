@@ -2,9 +2,9 @@
 
 ## To-Do List
 - [ ] Back/Bicep workout (2 hours)
-- [ ] Publication Approval (Finish Comments and check each branch)
+- [x] Publication Approval (Finish Comments and check each branch)
 - [ ] LC (2 hours)
-- [ ] 
+- [ ] next
 
 ## Schedule
 | Time | Activity |
